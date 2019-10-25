@@ -31,9 +31,13 @@
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
     "react-scripts": "^3.2.0",
-    "react-toastify": "^5.0.1",
-    "node": "6.11.1"
+    "react-toastify": "^5.0.1"
+   
   },
+  "engines": {
+    "node": "12.13.0"
+  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/carlitosgithub/react-google-search"
